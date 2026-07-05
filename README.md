@@ -1,8 +1,8 @@
-# Counter Application - React
+# Counter-react
 
 ## Description
 
-The **Counter Application** is a simple React project developed to understand the fundamentals of state management using the **useState** hook. The application allows users to increment, decrement, and reset a counter while updating the user interface dynamically without refreshing the page.
+The **Counter** is a simple React project developed to understand the fundamentals of state management using the **useState** hook. The application allows users to increment, decrement, and reset a counter while updating the user interface dynamically without refreshing the page.
 
 The project also demonstrates **conditional rendering** by displaying the message **"Minimum limit reached"** whenever the counter value is zero. Additionally, the application prevents the counter from decreasing below zero, providing a better user experience.
 
